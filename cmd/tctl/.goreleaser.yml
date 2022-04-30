@@ -23,7 +23,7 @@ changelog:
     - '^test:'
     - Merge pull request
     - Merge branch
-project_name : receiver
+project_name : tctl
 release:
   github:
     owner: gujarats
